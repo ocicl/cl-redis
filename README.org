@@ -1,0 +1,10 @@
+* cl-redis
+
+Redis client for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vseloved/cl-redis.git   |
+| commit  | 7d59241  |
+| systems | cl-redis |
+|---------+-------------------------------------------|
+
